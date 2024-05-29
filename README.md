@@ -1,6 +1,8 @@
 # [BMI Tracker: WHO & Asia-Pacific Shiny App](https://rohithmohan92.shinyapps.io/BMI_APP/)
 This is a BMI calculator app developed using Shiny. It calculates the BMI based on the inputs of height (in centimeters) and mass (in kilograms).
 
+[Visit Now](https://rohithmohan92.shinyapps.io/BMI_APP/) 🚀
+
 ## Usage Instructions:
 1. Adjust the sliders for height and mass to your measurements.
 2. Observe the BMI values generated in the respective tabs for WHO and Asia-Pacific standards.
@@ -29,7 +31,7 @@ The BMI values should fall within the specified ranges according to WHO and Asia
 <p style="color: #4CAF50; font-weight: bold;">You can find the source code on my 
 <a href="https://github.com/ROHITHKM92/BMIAPP/tree/main" target="_blank" style="color: #2196F3; text-decoration: none;">GitHub: ROHITHKM92</a>
 👉 The source code is available 
-<a href="https://github.com/ROHITHKM92/BMIAPP/tree/main" target="_blank" style="color: #FFC107; text-decoration: none;">Simply click here! 🚀🌟💻🔍</a>
+<a href="https://github.com/ROHITHKM92/BMIAPP/tree/main" target="_blank" style="color: #FFC107; text-decoration: none;">Simply click here! </a>
 </p>
 
 
@@ -37,9 +39,28 @@ The BMI values should fall within the specified ranges according to WHO and Asia
 ## Shiny Application
 You can access the Shiny application by clicking the link below:
 
-[BMI Tracker: WHO & Asia-Pacific Shiny App](https://rohithmohan92.shinyapps.io/BMI_APP/)
+[BMI Tracker: WHO & Asia-Pacific Shiny App](https://rohithmohan92.shinyapps.io/BMI_APP/)🚀
 
 ## Reproducible Pitch Presentation
 You can view the reproducible pitch presentation on Rpubs by clicking the link below:
 
-[BMI Tracker: WHO & Asia-Pacific Rpubs Presentation](https://rpubs.com/ROHITHMOHAN92/BMI_P)
+[BMI Tracker: WHO & Asia-Pacific Rpubs Presentation](https://rpubs.com/ROHITHMOHAN92/BMI_P)🚀
+
+## Snapshots of Web app 👀
+
+### BMI - WHO 
+![BMIWHO](https://github.com/ROHITHKM92/BMIAPP/assets/87298902/6440c8da-d056-4241-baa3-ade3633696e7)
+### BMI - Asia-Pacific
+![BMIASIA](https://github.com/ROHITHKM92/BMIAPP/assets/87298902/d9e7e989-d38f-45f0-938f-6bc517c89a56)
+### BMI - WHO 3D scatter plot 
+![BMIPLOT](https://github.com/ROHITHKM92/BMIAPP/assets/87298902/d1ad9b7d-79d9-46da-a205-6894df65ad45)
+### Documentation for BMI Calculator App
+![BMI_DOC](https://github.com/ROHITHKM92/BMIAPP/assets/87298902/82153491-f51f-46fb-8057-4d1dcea07f0e)
+
+
+
+
+
+
+© 2024 Rohith Mohan
+
