@@ -1,14 +1,14 @@
-# BMI Tracker: WHO & Asia-Pacific
+# [BMI Tracker: WHO & Asia-Pacific Shiny App](https://rohithmohan92.shinyapps.io/BMI_APP/)
 This is a BMI calculator app developed using Shiny. It calculates the BMI based on the inputs of height (in centimeters) and mass (in kilograms).
 
 ## Usage Instructions:
 1. Adjust the sliders for height and mass to your measurements.
 2. Observe the BMI values generated in the respective tabs for WHO and Asia-Pacific standards.
 3. Interpret the results based on the color-coded regions on the plot:
-    - **Red:** Indicates obese.
-    - **Pale Green:** Indicates normal weight.
-    - **Cornflower Blue:** Indicates overweight.
-    - **Yellow:** Indicates underweight.
+    - <span style="color: red;"><strong>Red:</strong></span> Indicates obese.
+    - <span style="color: palegreen;"><strong>Pale Green:</strong></span> Indicates normal weight.
+    - <span style="color: cornflowerblue;"><strong>Cornflower Blue:</strong></span> Indicates overweight.
+    - <span style="color: yellow;"><strong>Yellow:</strong></span> Indicates underweight.
 4. Explore the 3D scatter plot to visualize the relationship between height, weight, and BMI. Each point represents a combination of height and weight, with the color indicating the corresponding BMI value.
 
 The BMI values should fall within the specified ranges according to WHO and Asia-Pacific standards for healthy weight.
